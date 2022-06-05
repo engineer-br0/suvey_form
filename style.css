@@ -1,0 +1,46 @@
+
+body{
+    
+    margin: 0%;
+    padding: 0%;
+    background-image: url(images/a.gif);
+    filter: blur(0px);
+  -webkit-filter: blur(0px);
+    height: 100vh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+#d{
+  margin: 0%;
+  height: 100%;
+  margin-top: -5%;
+  background-color: rgba(76, 235, 13, 0.2);
+  
+} 
+#form{
+  
+  margin: 20px;
+  background-color: rgba(203, 222, 237, 0.5);
+  
+}
+
+
+h1{
+   
+  color: rgb(252, 249, 249);
+  font-weight: bold;
+  
+ 
+  
+  margin: 5%;
+  margin-bottom: 0%;
+  padding: 20px;
+  text-align: center;
+}
+.para{
+  color: aliceblue;
+  margin: 0%;
+  padding: 0%;
+  text-align: center;
+}
