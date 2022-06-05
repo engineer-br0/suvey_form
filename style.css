@@ -13,13 +13,13 @@ body{
 }
 #d{
   margin: 0%;
-  height: 100%;
+  height: 1000px;
   margin-top: -5%;
-  background-color: rgba(76, 235, 13, 0.2);
+  background-color: rgba(5, 118, 246, 0.2);
   
 } 
 #form{
-  
+  height: 80%;
   margin: 20px;
   background-color: rgba(203, 222, 237, 0.5);
   
